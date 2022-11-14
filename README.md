@@ -1,4 +1,4 @@
-# A research about why we using mathmatics in SE :
+# A research about why we using mathematics in SE :
 **I was wondering why we using Mathmatics in Software Engineering so i made this research.**
 
 # Part 1
