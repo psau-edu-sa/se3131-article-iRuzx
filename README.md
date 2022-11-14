@@ -1,5 +1,5 @@
 # A research about why we using mathmatics in SE :
-**I was wondering why we using Mathmatics in Software Engineering so i made this research**
+**I was wondering why we using Mathmatics in Software Engineering so i made this research.**
 
 # Part 1
 [1.Why we use math in Software Engineering P1.docx](https://github.com/psau-edu-sa/se3131-article-iRuzx/blob/6f3ec7681727896152d54cb8c1b1ab80c92ba5b7/1.Why%20we%20use%20math%20in%20Software%20Engineering%20P1.docx)
